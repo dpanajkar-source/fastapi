@@ -1,0 +1,10 @@
+2024-05-20 18:49:22,945 - Received batch ID id0101 with payload: [[1, 2], [3, 4]]
+2024-05-20 18:49:22,945 - Error processing batch id id0101: type object 'datetime.datetime' has no attribute 'UTC'
+2024-05-20 18:56:07,751 - Received batch ID id0101 with payload: [[1, 2], [3, 4]]
+2024-05-20 18:56:07,751 - Error processing batch id id0101: type object 'datetime.datetime' has no attribute 'UTC'
+2024-05-20 19:20:04,048 - Received batch ID id0101 with payload: [[1, 2], [3, 4]]
+2024-05-20 19:20:04,497 - Completed processing batch ID id0101 with result: [3, 7]
+2024-05-20 19:20:27,037 - Received batch ID id0101 with payload: [[1, 2], [3, 4]]
+2024-05-20 19:20:27,454 - Completed processing batch ID id0101 with result: [3, 7]
+2024-05-20 19:39:39,038 - Received batch ID id0101 with payload: [[1, 2], [3, 4]]
+2024-05-20 19:39:39,523 - Completed processing batch ID id0101 with result: [3, 7]
